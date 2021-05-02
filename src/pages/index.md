@@ -97,7 +97,7 @@ sections:
 template: advanced
 seo:
   title: API connector.systems
-  description: ''
+  description: 'API: '
   robots: []
   extra: []
   type: stackbit_page_meta
