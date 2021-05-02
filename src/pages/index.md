@@ -96,7 +96,7 @@ sections:
     bg_color: light
 template: advanced
 seo:
-  title: ''
+  title: API connector.systems
   description: ''
   robots: []
   extra: []
