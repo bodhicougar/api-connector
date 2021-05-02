@@ -74,5 +74,6 @@
       }
     ]
   },
-  "domain": "https://api-connector.netlify.app"
+  "domain": "https://api-connector.netlify.app",
+  "favicon": "/images/service-3.svg"
 }
