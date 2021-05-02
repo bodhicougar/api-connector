@@ -50,26 +50,27 @@
       {
         "type": "action",
         "label": "Twitter",
-        "url": "https://twitter.com/",
+        "url": "https://twitter.com/BBMediaDesign",
         "style": "icon",
         "icon": "twitter",
         "new_window": true
       },
       {
         "type": "action",
-        "label": "Instagram",
-        "url": "https://www.instagram.com/",
-        "style": "icon",
-        "icon": "instagram",
-        "new_window": true
-      },
-      {
-        "type": "action",
         "label": "LinkedIn",
-        "url": "https://www.linkedin.com/in/blackboxmd/",
+        "url": "https://www.linkedin.com/in/blackboxmd/?locale=en_US",
         "style": "icon",
         "icon": "linkedin",
         "new_window": true
+      },
+      {
+        "url": "https://github.com/bodhicougar",
+        "style": "icon",
+        "icon": "github",
+        "new_window": true,
+        "no_follow": false,
+        "type": "action",
+        "label": "Github"
       }
     ]
   },
