@@ -97,7 +97,9 @@ sections:
 template: advanced
 seo:
   title: API connector.systems
-  description: 'API: '
+  description: >-
+    APIs are used by software applications in much the same way that interfaces
+    for apps and other software are used by humans.
   robots: []
   extra: []
   type: stackbit_page_meta
