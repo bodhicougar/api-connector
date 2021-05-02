@@ -80,5 +80,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://api-connector-ed8bf.netlify.app"
 }
