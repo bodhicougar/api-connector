@@ -1,79 +1,79 @@
 {
-  "title": "API connector.systems",
-  "color_scheme": "light",
-  "accent_color": "blue",
-  "base_font": "fraunces",
-  "header": {
-    "type": "header",
-    "title": "connector.systems",
-    "logo": "/images/cta.svg",
-    "logo_alt": "connector.systems Logo",
-    "has_nav": true,
-    "nav_links": [
-      {
-        "type": "action",
-        "label": "Home",
-        "url": "/",
-        "style": "link"
-      },
-      {
-        "type": "action",
-        "label": "Work",
-        "url": "/portfolio/",
-        "style": "link"
-      },
-      {
-        "type": "action",
-        "label": "Journal",
-        "url": "/blog/",
-        "style": "link"
-      },
-      {
-        "type": "action",
-        "label": "About",
-        "url": "/about/",
-        "style": "link"
-      },
-      {
-        "type": "action",
-        "label": "Contact",
-        "url": "/contact/",
-        "style": "button"
-      }
-    ]
-  },
-  "footer": {
-    "type": "footer",
-    "content": "&copy; connector.systems. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=agency&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now.</a>",
-    "has_social": true,
-    "social_links": [
-      {
-        "type": "action",
-        "label": "Twitter",
-        "url": "https://twitter.com/BBMediaDesign",
-        "style": "icon",
-        "icon": "twitter",
-        "new_window": true
-      },
-      {
-        "type": "action",
-        "label": "LinkedIn",
-        "url": "https://www.linkedin.com/in/blackboxmd/?locale=en_US",
-        "style": "icon",
-        "icon": "linkedin",
-        "new_window": true
-      },
-      {
-        "url": "https://github.com/bodhicougar",
-        "style": "icon",
-        "icon": "github",
-        "new_window": true,
-        "no_follow": false,
-        "type": "action",
-        "label": "Github"
-      }
-    ]
-  },
-  "domain": "https://api-connector.netlify.app",
-  "favicon": "/images/service-3.svg"
+    "title": "API connector.systems",
+    "color_scheme": "light",
+    "accent_color": "blue",
+    "base_font": "fraunces",
+    "header": {
+        "type": "header",
+        "title": "connector.systems",
+        "logo": "/images/cta.svg",
+        "logo_alt": "connector.systems Logo",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "type": "action",
+                "label": "Home",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Work",
+                "url": "/portfolio/",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Journal",
+                "url": "/blog/",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "About",
+                "url": "/about/",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Contact",
+                "url": "/contact/",
+                "style": "button"
+            }
+        ]
+    },
+    "footer": {
+        "type": "footer",
+        "content": "&copy; connector.systems. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=agency&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now.</a>",
+        "has_social": true,
+        "social_links": [
+            {
+                "type": "action",
+                "label": "Twitter",
+                "url": "https://twitter.com/BBMediaDesign",
+                "style": "icon",
+                "icon": "twitter",
+                "new_window": true
+            },
+            {
+                "type": "action",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/blackboxmd/?locale=en_US",
+                "style": "icon",
+                "icon": "linkedin",
+                "new_window": true
+            },
+            {
+                "url": "https://github.com/bodhicougar",
+                "style": "icon",
+                "icon": "github",
+                "new_window": true,
+                "no_follow": false,
+                "type": "action",
+                "label": "Github"
+            }
+        ]
+    },
+    "domain": "https://api-connector.netlify.app",
+    "favicon": "/images/cta.svg"
 }
